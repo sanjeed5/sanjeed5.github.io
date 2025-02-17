@@ -1,3 +1,3 @@
-# sanjeed5.github.io
+Hi,
 
-Hi
+Go to [sanjeed.in](https://www.sanjeed.in)
